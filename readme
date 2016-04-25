@@ -9,4 +9,4 @@ hurley在线版文档：[http://wiki.0xffffff.org](http://wiki.0xffffff.org)
 
 2016-04-25:
     增加内核打印printk
-    添加保护模式下GTB
+    添加保护模式下GDB
