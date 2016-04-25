@@ -15,7 +15,7 @@ int kern_entry()
     console_clear();
     //console_w_color("Hello, GOS!\n",rc_black,rc_green);
     printk_color(rc_black,rc_green,"Hello, GOS kernel!\n");
-    //panic("test");
+    panic("test");
     return 0;
 }
 

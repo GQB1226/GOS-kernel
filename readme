@@ -6,3 +6,7 @@ hurley在线版文档：[http://wiki.0xffffff.org](http://wiki.0xffffff.org)
     工程初始化上传；
     屏幕打印GOS和闪烁光标
     有关内核字符串处理函数完成
+
+2016-04-25:
+    增加内核打印printk
+    添加保护模式下GTB
